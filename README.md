@@ -6,4 +6,6 @@
 
 • Collected almost a century worth of statistics from NHL.com and Hockey-Reference.com such as win percentage when scoring first, leading by 1st or 2nd period, and when outshooting opponent or getting outshot respectively
 
+• Tools used: Tableau, Python, Excel, Beautiful Soup 
+
 Link: https://public.tableau.com/app/profile/jonathan.steinberg/viz/NHLHistoricalTrends/Dashboard1
